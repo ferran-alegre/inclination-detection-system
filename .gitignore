@@ -1,0 +1,8 @@
+~$*
+*.tmp
+.vscode/
+Thumbs.db
+.DS_Store
+Backup Of *
+*.pdsbak
+Last Loaded *
